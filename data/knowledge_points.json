@@ -1,0 +1,560 @@
+{
+  "metadata": {
+    "title": "小学六年级奥数知识点",
+    "title_en": "6th Grade Math Olympiad Knowledge Points",
+    "grade": "6",
+    "level": "竞赛级别 / Competition Level",
+    "difficulty_range": "中等偏上到较难 / Upper-intermediate to Difficult",
+    "source": "综合各地小升初真题、杯赛、培训机构体系"
+  },
+  "learning_path": {
+    "phase_1": {
+      "name": "第一阶段：必须打牢 / Phase 1: Foundation",
+      "modules": [1, 2, 3, 4, 5, 6]
+    },
+    "phase_2": {
+      "name": "第二阶段：拉分关键 / Phase 2: Score Boosters",
+      "modules": [7, 8, 9, 10]
+    },
+    "phase_3": {
+      "name": "第三阶段：拔高题常见 / Phase 3: Advanced",
+      "modules": [11, 12, 13, 14]
+    }
+  },
+  "modules": [
+    {
+      "id": 1,
+      "name": "数的整除与因数倍数",
+      "name_en": "Number Theory: Divisibility & Factors",
+      "difficulty": 5,
+      "frequency": "极高 / Extremely High",
+      "topics": [
+        {
+          "name": "整除",
+          "name_en": "Divisibility"
+        },
+        {
+          "name": "倍数",
+          "name_en": "Multiples"
+        },
+        {
+          "name": "公因数",
+          "name_en": "Common Factors"
+        },
+        {
+          "name": "公倍数",
+          "name_en": "Common Multiples"
+        },
+        {
+          "name": "最大公因数",
+          "name_en": "GCD (Greatest Common Divisor)"
+        },
+        {
+          "name": "最小公倍数",
+          "name_en": "LCM (Least Common Multiple)"
+        },
+        {
+          "name": "质数合数",
+          "name_en": "Primes and Composites"
+        },
+        {
+          "name": "分解质因数",
+          "name_en": "Prime Factorization"
+        },
+        {
+          "name": "奇偶性",
+          "name_en": "Parity"
+        },
+        {
+          "name": "尾数规律",
+          "name_en": "Last Digit Rules"
+        },
+        {
+          "name": "带余除法",
+          "name_en": "Division with Remainder"
+        },
+        {
+          "name": "整除判定法则",
+          "name_en": "Divisibility Rules (3, 9, 11, etc.)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "算式中的规律与巧算",
+      "name_en": "Calculation Laws & Tricks",
+      "difficulty": 4,
+      "frequency": "很高 / Very High",
+      "topics": [
+        {
+          "name": "凑整法",
+          "name_en": "Rounding Method"
+        },
+        {
+          "name": "拆分法",
+          "name_en": "Splitting Terms"
+        },
+        {
+          "name": "乘法分配律逆用",
+          "name_en": "Reverse Distributive Property"
+        },
+        {
+          "name": "平方差公式",
+          "name_en": "Difference of Squares"
+        },
+        {
+          "name": "完全平方",
+          "name_en": "Perfect Squares"
+        },
+        {
+          "name": "数列求和",
+          "name_en": "Sequence Sums (Arithmetic/Geometric)"
+        },
+        {
+          "name": "循环节小数",
+          "name_en": "Recurring Decimals"
+        },
+        {
+          "name": "裂项法",
+          "name_en": "Telescoping Sums"
+        },
+        {
+          "name": "整体代换",
+          "name_en": "Substitution Method"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "和差倍问题",
+      "name_en": "Sum, Difference, Multiple Problems",
+      "difficulty": 4,
+      "frequency": "很高 / Very High",
+      "topics": [
+        {
+          "name": "和差问题",
+          "name_en": "Sum-Difference Problems"
+        },
+        {
+          "name": "和倍问题",
+          "name_en": "Sum-Multiple Problems"
+        },
+        {
+          "name": "差倍问题",
+          "name_en": "Difference-Multiple Problems"
+        },
+        {
+          "name": "倍数差",
+          "name_en": "Multiple-Difference"
+        },
+        {
+          "name": "鸡兔同笼",
+          "name_en": "Chicken and Rabbit Problems"
+        },
+        {
+          "name": "盈亏问题",
+          "name_en": "Profit & Loss Problems"
+        },
+        {
+          "name": "平均数问题",
+          "name_en": "Average Problems"
+        },
+        {
+          "name": "两数之和差与倍数关系",
+          "name_en": "Sum/Difference & Multiple Relationships"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "行程问题",
+      "name_en": "Travel Problems",
+      "difficulty": 5,
+      "frequency": "极高 / Extremely High",
+      "topics": [
+        {
+          "name": "同向追及",
+          "name_en": "Same Direction Catch-up"
+        },
+        {
+          "name": "相向相遇",
+          "name_en": "Opposite Direction Meeting"
+        },
+        {
+          "name": "往返问题",
+          "name_en": "Round Trip"
+        },
+        {
+          "name": "多次相遇",
+          "name_en": "Multiple Meetings"
+        },
+        {
+          "name": "钟表问题",
+          "name_en": "Clock Problems"
+        },
+        {
+          "name": "流水行船",
+          "name_en": "Boat in Current"
+        },
+        {
+          "name": "平均速度",
+          "name_en": "Average Speed"
+        },
+        {
+          "name": "同时出发不同时到达",
+          "name_en": "Start Together Arrive at Different Times"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "工程问题",
+      "name_en": "Engineering Problems",
+      "difficulty": 4,
+      "frequency": "很高 / Very High",
+      "topics": [
+        {
+          "name": "基本工程",
+          "name_en": "Basic Engineering"
+        },
+        {
+          "name": "水管注水排水",
+          "name_en": "Pipes Filling/Draining"
+        },
+        {
+          "name": "轮流工作",
+          "name_en": "Alternating Work"
+        },
+        {
+          "name": "同时工作",
+          "name_en": "Simultaneous Work"
+        },
+        {
+          "name": "变工效",
+          "name_en": "Variable Efficiency"
+        },
+        {
+          "name": "工程量反比时间",
+          "name_en": "Work Amount Inversely Proportional to Time"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "比例应用题",
+      "name_en": "Ratio Word Problems",
+      "difficulty": 4,
+      "frequency": "高 / High",
+      "topics": [
+        {
+          "name": "正反比例",
+          "name_en": "Direct/Inverse Proportion"
+        },
+        {
+          "name": "比例分配",
+          "name_en": "Proportional Distribution"
+        },
+        {
+          "name": "按比例分配",
+          "name_en": "Distribution by Ratio"
+        },
+        {
+          "name": "浓度配比",
+          "name_en": "Concentration Ratios"
+        },
+        {
+          "name": "相似图形比例",
+          "name_en": "Similar Figure Ratios"
+        },
+        {
+          "name": "速度时间距离比例",
+          "name_en": "Speed-Time-Distance Ratios"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "分数百分数小数综合应用",
+      "name_en": "Fractions / Percentages / Decimals",
+      "difficulty": 4,
+      "frequency": "高 / High",
+      "topics": [
+        {
+          "name": "分数应用题",
+          "name_en": "Fraction Word Problems"
+        },
+        {
+          "name": "工程分数",
+          "name_en": "Engineering Fractions"
+        },
+        {
+          "name": "百分数增长",
+          "name_en": "Percentage Growth"
+        },
+        {
+          "name": "折扣",
+          "name_en": "Discount"
+        },
+        {
+          "name": "利息",
+          "name_en": "Interest"
+        },
+        {
+          "name": "浓度配比",
+          "name_en": "Concentration Mixtures"
+        },
+        {
+          "name": "折线统计图分析",
+          "name_en": "Line Graph Analysis"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "几何",
+      "name_en": "Geometry (Plane + Solid)",
+      "difficulty": 4,
+      "frequency": "高 / High",
+      "topics": [
+        {
+          "name": "三角形内角和",
+          "name_en": "Triangle Angle Sum"
+        },
+        {
+          "name": "三角形面积公式",
+          "name_en": "Triangle Area"
+        },
+        {
+          "name": "平行四边形面积",
+          "name_en": "Parallelogram Area"
+        },
+        {
+          "name": "梯形面积",
+          "name_en": "Trapezoid Area"
+        },
+        {
+          "name": "多边形面积",
+          "name_en": "Polygon Area"
+        },
+        {
+          "name": "周长关系",
+          "name_en": "Perimeter Relations"
+        },
+        {
+          "name": "割补法",
+          "name_en": "Cut and Paste Methods"
+        },
+        {
+          "name": "旋转法求面积",
+          "name_en": "Rotation for Area"
+        },
+        {
+          "name": "展开图",
+          "name_en": "Nets"
+        },
+        {
+          "name": "立体体积",
+          "name_en": "Volume"
+        },
+        {
+          "name": "表面积",
+          "name_en": "Surface Area"
+        },
+        {
+          "name": "截面",
+          "name_en": "Cross-sections"
+        },
+        {
+          "name": "染色问题",
+          "name_en": "Coloring Problems"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "计数与组合",
+      "name_en": "Counting & Combinatorics",
+      "difficulty": 3,
+      "frequency": "中等 / Medium",
+      "topics": [
+        {
+          "name": "分类分步计数原理",
+          "name_en": "Classification/Step-by-step Principles"
+        },
+        {
+          "name": "加法原理",
+          "name_en": "Addition Principle"
+        },
+        {
+          "name": "乘法原理",
+          "name_en": "Multiplication Principle"
+        },
+        {
+          "name": "简单枚举",
+          "name_en": "Simple Enumeration"
+        },
+        {
+          "name": "涂色问题",
+          "name_en": "Coloring (Chessboard/Maps)"
+        },
+        {
+          "name": "简单排列组合",
+          "name_en": "Simple Permutations/Combinations"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "抽屉原理",
+      "name_en": "Pigeonhole Principle",
+      "difficulty": 4,
+      "frequency": "很高 / Very High",
+      "topics": [
+        {
+          "name": "基本抽屉",
+          "name_en": "Basic Pigeonhole"
+        },
+        {
+          "name": "最不利原则",
+          "name_en": "Worst-case Scenario Principle"
+        },
+        {
+          "name": "至少问题",
+          "name_en": "At Least Problems"
+        },
+        {
+          "name": "保证问题",
+          "name_en": "Guarantee Problems"
+        },
+        {
+          "name": "加强版抽屉",
+          "name_en": "Advanced Pigeonhole"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "简单数论综合",
+      "name_en": "Simple Number Theory Comprehensive",
+      "difficulty": 3,
+      "frequency": "中等偏上 / Upper Medium",
+      "topics": [
+        {
+          "name": "同余初步",
+          "name_en": "Modular Arithmetic Intro"
+        },
+        {
+          "name": "尾数",
+          "name_en": "Last Digits"
+        },
+        {
+          "name": "同余式",
+          "name_en": "Congruences"
+        },
+        {
+          "name": "中国剩余定理",
+          "name_en": "Chinese Remainder Theorem (Simple)"
+        },
+        {
+          "name": "带余除法综合",
+          "name_en": "Complex Division with Remainder"
+        },
+        {
+          "name": "找规律填数",
+          "name_en": "Finding Patterns"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "定义新运算",
+      "name_en": "New Operations / Black Box",
+      "difficulty": 3,
+      "frequency": "中等 / Medium",
+      "topics": [
+        {
+          "name": "新定义四则运算",
+          "name_en": "Defined Operations"
+        },
+        {
+          "name": "符合某种规律的符号运算",
+          "name_en": "Symbolic Operations with Patterns"
+        },
+        {
+          "name": "递推式",
+          "name_en": "Recurrence Relations"
+        },
+        {
+          "name": "函数式表达",
+          "name_en": "Functional Expressions"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "逻辑推理与策略",
+      "name_en": "Logic & Strategy",
+      "difficulty": 3,
+      "frequency": "中等 / Medium",
+      "topics": [
+        {
+          "name": "比赛名次",
+          "name_en": "Rankings"
+        },
+        {
+          "name": "谁赢谁输",
+          "name_en": "Who Wins/Loses"
+        },
+        {
+          "name": "真假话",
+          "name_en": "Truth Tellers/Liars"
+        },
+        {
+          "name": "比赛积分",
+          "name_en": "Tournament Scores"
+        },
+        {
+          "name": "简单博弈",
+          "name_en": "Simple Game Theory"
+        },
+        {
+          "name": "必胜必败策略",
+          "name_en": "Winning/Losing Strategies"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "综合应用题",
+      "name_en": "Comprehensive Word Problems",
+      "difficulty": 4,
+      "frequency": "高 / High",
+      "topics": [
+        {
+          "name": "多量多步应用题",
+          "name_en": "Multi-step/Multi-variable"
+        },
+        {
+          "name": "列表法",
+          "name_en": "Tabulation Method"
+        },
+        {
+          "name": "假设法",
+          "name_en": "Assumption Method"
+        },
+        {
+          "name": "代换法",
+          "name_en": "Substitution Method"
+        },
+        {
+          "name": "整体法",
+          "name_en": "Holistic Approach"
+        },
+        {
+          "name": "方程思想初步",
+          "name_en": "Basic Equations"
+        }
+      ]
+    }
+  ]
+}
