@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "pdf-reader": {
+      "command": "uvx",
+      "args": ["mcp-pdf-reader"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
