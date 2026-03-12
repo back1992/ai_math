@@ -1,0 +1,106 @@
+[
+  {
+    "page": 11,
+    "topic_en": "Inventions: Slinky",
+    "topic_zh": "发明：弹簧玩具 (Slinky)",
+    "context_en": "The Slinky was invented in the United States by Richard and Betty James in 19__. The letter A stands for a 2-digit number. Use the clues to figure out the value of A.",
+    "context_zh": "弹簧玩具 (Slinky) 是由理查德和贝蒂·詹姆斯于 19__ 年在美国发明的。字母 A 代表一个两位数。根据线索算出 A 的值。",
+    "clues_en": [
+      "1) A >= 2 x 15",
+      "2) The product of its digits is an even number.",
+      "3) A + A < 100",
+      "4) A has exactly two different factors.",
+      "5) The difference between the two digits of A is less than 3."
+    ],
+    "clues_zh": [
+      "1) A >= 2 x 15",
+      "2) 各位数字之积是一个偶数。",
+      "3) A + A < 100",
+      "4) A 恰好有两个不同的因数。",
+      "5) A 的两个数字之差小于 3。"
+    ],
+    "questions_en": [
+      "1. What are all of the numbers on Ima's list?",
+      "2. What is A?",
+      "3. How did you figure out the value of A?",
+      "4. Check your number with the clues. Show your work here.",
+      "5. Record A on the line below to complete the year of the invention."
+    ],
+    "questions_zh": [
+      "1. 艾玛列表上的所有数字是什么？",
+      "2. A 是多少？",
+      "3. 你是如何算出 A 的值的？",
+      "4. 用线索检查你的数字。在这里展示你的过程。",
+      "5. 在下面的横线上记录 A，完成发明年份。"
+    ],
+    "knowledge_points": ["Algebraic Reasoning", "Factors and Multiples", "Inequalities", "Number Theory"]
+  },
+  {
+    "page": 12,
+    "topic_en": "Inventions: Television",
+    "topic_zh": "发明：电视机",
+    "context_en": "The television was invented in the United States by Vladimir Zworykin in 19__. The letter B stands for a 2-digit number. Use the clues to figure out the value of B.",
+    "context_zh": "电视机是由弗拉基米尔·兹沃里金于 19__ 年在美国发明的。字母 B 代表一个两位数。根据线索算出 B 的值。",
+    "clues_en": [
+      "1) The sum of the digits of B is not divisible by 2.",
+      "2) B >= 18 / 2",
+      "3) B <= 90 / 3",
+      "4) B has no factors except for 1 and itself.",
+      "5) The product of the two digits of B is a single-digit number."
+    ],
+    "clues_zh": [
+      "1) B 的各位数字之和不能被 2 整除。",
+      "2) B >= 18 / 2",
+      "3) B <= 90 / 3",
+      "4) B 除了 1 和它本身之外没有其他因数。",
+      "5) B 的两个数字之积是一个一位数。"
+    ],
+    "questions_en": [
+      "Whose circuits are connected?",
+      "I believe that B is 23. (Mighty Mouth)",
+      "Of course, B is 14. (Boodles)",
+      "Obviously B is 29. (CeCe Circuits)"
+    ],
+    "questions_zh": [
+      "谁的电路连接好了？",
+      "我相信 B 是 23。（Mighty Mouth）",
+      "当然，B 是 14。（Boodles）",
+      "显然 B 是 29。（CeCe Circuits）"
+    ],
+    "knowledge_points": ["Prime Numbers", "Divisibility", "Inequalities", "Logical Reasoning"]
+  },
+  {
+    "page": 13,
+    "topic_en": "Inventions: Post-it Notes",
+    "topic_zh": "发明：便利贴",
+    "context_en": "Post-it notes were invented in the United States by the 3M Company in 19__. The letter C stands for a 2-digit number. Use the clues to figure out the value of C.",
+    "context_zh": "便利贴是由 3M 公司于 19__ 年在美国发明的。字母 C 代表一个两位数。根据线索算出 C 的值。",
+    "clues_en": [
+      "1) C is a multiple of 8.",
+      "2) C < 4 x 22",
+      "3) The product of the two digits of C is zero.",
+      "4) C != 40"
+    ],
+    "clues_zh": [
+      "1) C 是 8 的倍数。",
+      "2) C < 4 x 22",
+      "3) C 的两个数字之积为零。",
+      "4) C 不等于 40。"
+    ],
+    "questions_en": [
+      "1. What are all of the numbers on Ima's list?",
+      "2. What is C?",
+      "3. How did you figure out the value of C?",
+      "4. Check your number with the clues. Show your work here.",
+      "5. Record C on the line below to complete the year of the invention."
+    ],
+    "questions_zh": [
+      "1. 艾玛列表上的所有数字是什么？",
+      "2. C 是多少？",
+      "3. 你是如何算出 C 的值的？",
+      "4. 用线索检查你的数字。在这里展示你的过程。",
+      "5. 在下面的横线上记录 C，完成发明年份。"
+    ],
+    "knowledge_points": ["Multiples", "Inequalities", "Place Value", "Constraint Satisfaction"]
+  }
+]
