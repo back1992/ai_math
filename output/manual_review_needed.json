@@ -1,0 +1,739 @@
+[
+  {
+    "page": 5,
+    "question_num": "6",
+    "content": "了的分子加上 要使分数的值不变，分子应加上( ) A. 4 B.14 C.21",
+    "issues": [
+      "Possible '了' misread"
+    ]
+  },
+  {
+    "page": 5,
+    "question_num": "9",
+    "content": "小美把 1000 元按年利率 2. 45%存入银行，2 年后计算她应得到的本金和利 息，列式应是( ) A. 1000x2.45%x2 B. (1000x2.45%+1000)x2 C. 1000x ",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 5,
+    "question_num": "10",
+    "content": "一个圆柱体的侧面展开图是一个正方形，这个圆柱底面直径与高的比是 ( ) A.1: 工 B. 1:2 C.1:4开 D.2: 工 三、计算题(每题4分，共 20 分) (1 锝5lwia (2) 46x",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 11,
+    "question_num": "12",
+    "content": "计算:0.035x935+3x0.035+0.07x61x0.5=",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 13,
+    "question_num": "22",
+    "content": "如下图, 有一张长 10cm, 宽 8cm 的长方形纸张, 要剪出一些长 2. 5cm、宽 1. 5cm 的小长方形，最多能剪(不能拼接) 出多少个? 请画出示意图. 答， 最多能剪出 个小长方形. ",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 16,
+    "question_num": "1",
+    "content": "1+2.3+3.5+4.7+5.9+6.2+7.4+8.6+9.8= 若规定 a@b@c-=ax(c-I-bx(c-al，则73田69@504 = 90+78x36+45x78+12 =",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 17,
+    "question_num": "15",
+    "content": "2.016x390+20.16x41+201.6x2= 。 志 ”02_33753014工= . 9 6 ”2 12",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 19,
+    "question_num": "31",
+    "content": "在1至16 的整数中，已经在4x4的方格中填写了八个数，请把其余的八 个数分别填在其余的方格中，使得每一行、每一列及对角线上的四 - 个数的和都相等.",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 25,
+    "question_num": "35",
+    "content": "计算 (每小题4分，共 16 分) (CD (4:11+4xJ)x(999x0.9+99.9) 9 ”27976 (3) 75%-(42 -3约x0.25 十 C2+1D)+21-1和4 3 9 5 ",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 27,
+    "question_num": "3",
+    "content": "。 某公司的招聘考试有1000 人,笔试的平均成绩是 55 分，笔试通过的有150人， 笔试通过者比笔试未通过者的平均成绩高 38 分，笔试通过者的最低分数线 比笔试通过者的平均分低 6. 3 分，则",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 28,
+    "question_num": "3",
+    "content": "二+二x二+二一 4. (二+二一一)x1一一 3 3 昌 滑 11 一 5 Sx7一3:12= 了 6. (3.5X0. 9+0.35) +了= (3. . 9+0. 4一 1 3 -13 5 7-",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 29,
+    "question_num": "12",
+    "content": "在4X4的方格中，已知两个格点 4 (2, 3)，B (2, 1)，如果存在格点 C.使得 A4BC是面积为 1 平方单位的直角三角形，那么格点 C 的个数有( ) A.8个 B.6个 CG 4个 D",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 29,
+    "question_num": "16",
+    "content": "下面的算式是从左到右每四个一行，依次往下按某种规律排列的: 1+1， 2+3， 3+5， 4+7， 1+9， 2+11， 3+13， 4+15， 1+17， 2+19， ，那么和为 2011 的算式是",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 32,
+    "question_num": "29",
+    "content": "(2 分) 如果用 1X2 的长方形若干张纸片，去覆盖 3X4 的长方形，使得这 些纸片互相不重登、无空隙，不出 3X4 的长方行的边界，那么有 不同的覆 盖方法。",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 35,
+    "question_num": "1",
+    "content": "2006x2008x[f[ 1 ,1 2006x2007 ”2007x2008",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 37,
+    "question_num": "15",
+    "content": "如果[q]表示不超过 的最大整数，如[2. 1]=2，[3.9]=3，[5.0]-5 那么 [0. 1234X100] 二100=",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 44,
+    "question_num": "17",
+    "content": "12 和 60 是很有趣的两个数，这两个数的积恰好是这两个数的和的 10 倍: 12x60=720，12+60=72 满足这个条件的正整数还有哪些?",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 46,
+    "question_num": "1",
+    "content": "， 312+165-284 = 2，1999+498-2008 = 3，12.5x45+86.5x45 =",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 47,
+    "question_num": "15",
+    "content": "对于两个不相等的正整数，定义 a涪表示 a、中较小的数的 3 倍减去较大 数，例如4涪7=4x3-7=5. (1) 计算，197;398= (2) 如果ai17 = 22 ,那么a的所有的可能值是 .",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 47,
+    "question_num": "16",
+    "content": "有个这样的分数， 它大于了而小于3， 并且乘以 30 以后得到一个束 心 数，这些分数的平均数是",
+    "issues": [
+      "Possible '了' misread"
+    ]
+  },
+  {
+    "page": 48,
+    "question_num": "2",
+    "content": "计算:3.45x6.8+ 65.5x0.68 =",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 48,
+    "question_num": "3",
+    "content": "方程了-6-0的角为",
+    "issues": [
+      "Possible '了' misread"
+    ]
+  },
+  {
+    "page": 51,
+    "question_num": "12",
+    "content": "如图有 5X3 个点，取不同的三个点就可以组合一个三角形，问可以组成 本三角形:",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 59,
+    "question_num": "15",
+    "content": "如图是 6X6 的方格纸，小方格的面积是 1 平方厘米，小方格的顶点称为格 点. 请你在图上选 8 个格点，要求其中任意 3 个格点都不在一条直线上，并且使 这 8 个点用直线连接后所围成的图形面积尽",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 66,
+    "question_num": "1",
+    "content": "计算: 10:219_12xI1 .7+1x22 13 22 5 13 5 63",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 66,
+    "question_num": "2",
+    "content": "计算: 1994x19931994-1993x19941994 21_11 中+150%6",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 67,
+    "question_num": "6",
+    "content": "计算: 8. 01X1. 25+8. 02X1. 24+8. 03X1. 23+8. 04X1. 22+8. 05X1. 21 的整数 部分。 二: 应用题",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 69,
+    "question_num": "19",
+    "content": "我们可以找到了个自然数，用它们的和乘以它们的积，结果恰好等于 2001， 那么n 的最小值是多少?",
+    "issues": [
+      "Possible '了' misread"
+    ]
+  },
+  {
+    "page": 69,
+    "question_num": "20",
+    "content": "算式 1X4X7X10X…X100 的计算结果，末尾有多少个连续的 0?",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 84,
+    "question_num": "4",
+    "content": "如下图，已知 $ 小正方形=1，则大正方形的面积 $ 正方形= 4!=1x2x3x4,…则",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 91,
+    "question_num": "26",
+    "content": "()1.4+二-1-+(1.8-= 2)12 和 7 5 ! 引 人 4 6 3 G)13x24034x2413x14+Sx034 3 7 汪汪",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 98,
+    "question_num": "15",
+    "content": "下面是一个算式;1+1x2+1x2x3+1x2x3x4+1x2x3x4x5+lx2x3x4xSx6 这个算式的得数能否是某个数的平方?",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 101,
+    "question_num": "11",
+    "content": "在一个3X3 的方格表中填有 1，2，3，4，5，6，7，8，9，九个 数，每格中只填一个数，现将每行中放有最大数的格子染成红色，最小数的格 子染成绿色. 设 4是红格中的最小数,首是绿格中的最大数,",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 104,
+    "question_num": "9",
+    "content": "已知，4x15xl-L -= Bx2+3x15=Cx152+4=Dxl48x了,4、5、C.、D四 9 ”3 4 5 允 个数中最大的是( 尖",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 108,
+    "question_num": "5",
+    "content": "下列式中x和了成反比例的是( 和 5 下 C.y-=8-x D.y=3x 8 >",
+    "issues": [
+      "Possible '了' misread"
+    ]
+  },
+  {
+    "page": 110,
+    "question_num": "21",
+    "content": "计算: (10分) (1) 51x68x78+(17x34x13) (2) 14x(22.0.75)115上+也 17 “3 12 21",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 126,
+    "question_num": "20",
+    "content": "用适当的方法计算. (1) 5.4二18+12 .5228 (3) 102-15x5 (4) (3 )X48 人 江 HT-1X36 (6) 3.5X 3 十5.5X80%十0.8",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 131,
+    "question_num": "1",
+    "content": "了|(引 2. 4工:4+342x25%6+0.25x53.5 2 |8 5 员 四、解答题(备注无第1题)",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 138,
+    "question_num": "3",
+    "content": "014 53 二、选择题 (本题共 30 分，每小题 3 分) 题号 1 2 3 4 用 6 7 8 9 10 答案 B B C C B B C B EC 人A 三、计算题 (每题4分，共 20 分)",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 139,
+    "question_num": "4",
+    "content": "解 : 设做对x道题 gxr-5(10-j=41 x=了 答 : 他做对了 7 道题.",
+    "issues": [
+      "Possible '了' misread"
+    ]
+  },
+  {
+    "page": 140,
+    "question_num": "2",
+    "content": "当拼 20 张桌子时，两边配的椅子为 2+2=4 中间椅子数量为 2x20=40 ……给桌子配的椅子数量为 40+4=44 答 : 拼 20 张桌子需要配 44 把椅子",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 145,
+    "question_num": "27",
+    "content": "”答案 :1、3、4 解析 : 空间想象与推理，3x3x3立方体需要 27 块 1有9块、 2有7块、 3有12块、 4有6块、. 5有8块 能拼成 27 块的只有1、3、4或2、3、5 两组 . 如",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 157,
+    "question_num": "25",
+    "content": "解: To 一Tr(42-22)-4x2 和(人-2-4x =工xl12-18 4 =3r-8 答: 两个阴影部分的面积差是 3r-8",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 160,
+    "question_num": "1",
+    "content": "答案 : 2 解析 : 7x10+3x9+0x8+3x7+0x6+7x5+6x4+1x3+8x2=196 196=11=17 9 11-9=2 则该书号的核验码为 2 .",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 161,
+    "question_num": "2",
+    "content": "答案 : 2008 3 4 5 4016 : 原式=1x二x一x二”一一 解析 : 原式-lx3x3x4 4015 =2008 答案 : 4015 解析 : 原式=2008x(20072007+1) ",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 161,
+    "question_num": "3",
+    "content": "答案 : 50 -A -A-2 解析 : -A-10和= 10 ”=-10 10-2 解得 : =50 4答案 : 20 把 解析 : 每张桌子的价格 : 320*+5=64 (元) 每把椅子的价格 ",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 164,
+    "question_num": "11",
+    "content": "解 : 如果投影在墙上的部分投影在了地上， 则该部分在地上的影长 : 1.2x0.9=1.08 (米) . 投在地上的全部影长 : 2.7+1.08=3.78 (米) . 则树高 : 3.78+0.9",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 166,
+    "question_num": "11",
+    "content": "1:3({x141:(0x14):{2x141=123:14:21 解: 0 了 (54j:0a4:[ax0d] (2) 12+14+21= 47 12 10月 : IO他”360 (千克) . 11",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 167,
+    "question_num": "16",
+    "content": "解 : 扇形面积 : 3.14x22x 3.14 (平方厘米) . 入",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 168,
+    "question_num": "18",
+    "content": "解 : 设48 两地相距 8 千米，乙的速度为广，甲的速度为找 得9S-= 2 x(r - -到-2 - 得:8S=-G2 得S-责x( 下)，8 5 页>他 太) ，解得: 8 ， 提高速度后，乙追",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 168,
+    "question_num": "9",
+    "content": "解 : 30xP0+(20+5-30x3-24 (立方厘米) . : 瓶内现有饮料 24 立方厘米 . 政",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 170,
+    "question_num": "11",
+    "content": "解析 : (分解质因数、整除特征) 35=5x7，所以一定要有 5 的倍数 最小组合 :",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 171,
+    "question_num": "17",
+    "content": "答案 : 7 解析 : 罗辑推理 突破口在第三名同学, 第三名同学可能性有两种 :2x3x5 = 60或者2x5x6 = 60 假设，",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 177,
+    "question_num": "10",
+    "content": "36;8 11 .如图在人AO8 内有一定点 P .试在角的两边 OQ4、O8 上各找个一点 M、N使 三角形 PMAN 的周长最短，(保留找点时所做的辅助线) 并作简单说明 . 王 O 妇 V 解析",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 179,
+    "question_num": "5",
+    "content": "解 : 6米=600 厘米 (600+600*2)* (600x5*5) =900*600=1.5(厘米/秒) :设一 9速度为 工，乙的速度为",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 179,
+    "question_num": "8",
+    "content": "甲走完十圈用 : 10x4=40 (分钟) 此时己走 : 40:7-呈 (图) 40 2和-和 甲比乙多走了 : 10 5 47 (圈) X这人4] = (分钟) 两人第一次相遇，第 4+1=5 次击",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 182,
+    "question_num": "13",
+    "content": "不停，100+(7-5) = 50(s) 追上，甲跑 100 米 需 100+7+5- (种) 50+5 -259， 甲 休息两次此时甲走(50-5x2)x7= 280m,，停 2次",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 186,
+    "question_num": "2",
+    "content": "26、13、39、3、33、11、55、5、35、7、14 S、55、11、77、7、56、8、24、3、39、13、65 5. 乘积 和 5 个数 120=2x3x20=5x24 | 2+5+20=",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 186,
+    "question_num": "2",
+    "content": "3、5、20、24 36=2x3x6=4x9 2+4+6=3+9 2、3、4、6、9 60=3x4x5=6x10 3+5+6=4+10 有本攻必和 25 如 “24 143",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 189,
+    "question_num": "5",
+    "content": "解原式 -3 ,610 (lt+2001)x2001+2 235 9 (2+2001)x2000+2 3 6 10 .2001x2002*2 Lee 二和 25 9 2000x2003+2 6 12 ",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 190,
+    "question_num": "8",
+    "content": "05xl.21<8.04x1.22<8.03x1.23<<8. 02x1. 24<8. 01x1. 25 因为 8.01x1.25+8.02x1.24+8.03x1.23x8.04x1.22+8.05",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 192,
+    "question_num": "12",
+    "content": "解 : 根据坚式可知, 1988与乘数的个位和十位上的数字相乘的积都是五位数, 那么个 位和十位上的数字都大于5 ; 1988x6=11928 ”，千位上不是7或5，不符合 ; 1988x7=1391",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 194,
+    "question_num": "16",
+    "content": "解 : 因为101101 = 7xl1x13x101，又50个互不相同的非零自然数的和，最小为 1+2+3+...+50= (1+50)x50+2=1275 即至少要1275，才能分解成 50个不同非",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 194,
+    "question_num": "17",
+    "content": "解 : 由分析可知n的最小值是 : 2x2x2x2x2x3x3x3x5 = 4320",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 194,
+    "question_num": "18",
+    "content": "解 : 63x31+ 42 = 1953 + 42 = 1995 又因 ; 1995 = 3x5x7x19 3+5+7+19= 34 答 : 这个正整数的所有质因数的和是 34.",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 194,
+    "question_num": "19",
+    "content": "解 : 因为,2001-3x23x29 “，3不可能是\"个数的和，因为太小，而如果是积，那么n显 然太大，而23也不可能是m个数的和，29就比23大，所以只有29是\"个数的和， 23和3的和不到29，",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 194,
+    "question_num": "20",
+    "content": "解 : 因为2足够多，所以有一个因数5就有一个0，有一个因数25就有2个0 式子中共有5个5的倍数，2个25的倍数，所有共有5x1+2x2=9个0",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 195,
+    "question_num": "21",
+    "content": "设林场工人是人，学生的人数是yY人 (8一2)xl5x+(8一2)x1lly 十 (1 一 习xx2x15 + (1一为x2x11y=3382 88 90x 十66y 十24x + = 3382 88",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 198,
+    "question_num": "9",
+    "content": "，(1，8)，(2，7)，(3，6)，(4，5) 中选择， 因为 (0, 9) 不能在个位、千位,而一组数中的两个数位置可以互换, 所以共有 : 4x5x2x2=80个 . 答 : 四位数一共有 80",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 200,
+    "question_num": "32",
+    "content": "把 4 个木箱看成 4+2x3 个纸箱,也就是 6 个. 那么一共有 12+6=18 个纸箱. 每个纸箱应该装 1800*18=100 个零件 33， (5-4.2) x5* (6-5) =4 (个)",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 202,
+    "question_num": "40",
+    "content": "3 块长方形的面积是 : 6X2X3=36 (平方分米) ， 扇形的面积是 : 3. 14X 2:=3. 14X 4=12. 56 (平方分米)， 总面积是 : 36+12. 56=48. 56 (平",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 203,
+    "question_num": "41",
+    "content": "答 : 这堆木块最多有 16 块，最少有 13 块。 做过点 4做 BC 的平行线与 CD 的延长线相交与点 G 和矩形 ABCG 的面积为12x8 = 96 …SA4ED 二 SaFCD 二 Sm四",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 206,
+    "question_num": "32",
+    "content": "设徒弟一共加工了 x 个零件，则师傅加工了 (#x + 10)x3个零件 3 x+T4x+30= 170 Xx=80 答 : 徒弟一共加工了 80 个零件 …CD 的长为;x75 + 15x7 = 1",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 206,
+    "question_num": "34",
+    "content": "由题意知 : 甲车间原来的工资标准为 : 60 = (1 + 20%) = 50 元 乙车间原来的工资标准为 : 48*+ (1 + 20%) = 40 元 设甲车间调出x 人，则乙车间调出 (50-",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 209,
+    "question_num": "28",
+    "content": "(1) 4 解析 : 18=2x9=3x6=2x6+3x2=2x3+3x4 所以方案一 : 租 9 辆甲车 方案二 : 租 6 辆乙车 方案三 : 租 6 辆甲车，2 辆乙车 方案四 : 租 3 辆甲",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 212,
+    "question_num": "3",
+    "content": "，1994+*7= 284.…6即每经历 1994 天星期几就得往前推 6 天 如“今年 2 月 9 日是星期五”，历经一个 1994 天后是星期四 (星期五再往前推 6天) 但要经历 1994 个 ",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 213,
+    "question_num": "5",
+    "content": "解 : 每 8 个连续自然数中，至少只能取四个数，其中每两个数的差不等于 4，把 1989 个数依次每 8 个分成一组，最后 5 个数也成一组，即 4 2, 3, 4, 5,6,7,8 ; 9, 10",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 215,
+    "question_num": "10",
+    "content": "有两个答案 : 设一个是 4 时x分，另一个是5 时y分。 x-25=25- je 12x X=27一 13 5x5+_L__25-25-y 127 1 了= 行 以钟面上 60 个小格为计算单位 分",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 217,
+    "question_num": "13",
+    "content": "顺水速 : 逆水速=(120-60):(120-80)= 60:40=3:2 质水志 20+80x3]*16- 240+16 =15和干米/小时 地水速 20x3+80]*16-160+16- 10千",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 218,
+    "question_num": "7",
+    "content": "5份 10份-了 3-3 1x5- (分钟) 四 ,区 前后一共要花 : 和4分钟",
+    "issues": [
+      "Possible '了' misread",
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 218,
+    "question_num": "16",
+    "content": "900 设每个小三角形三个项点上的数的和都是 S。4 个小三角形的和 S 相加时， 中间三角形每个项点上的数被算了 3 次, 所以 : 4S=2S+20，从而 : S=10， 这样，每个小三角形项点上",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 222,
+    "question_num": "2",
+    "content": "“当小聪从某一步开始控去奇数时,小明可以跟着控去奇数,这样 最后给小明留下的三个数有两种情况， 一种是剩下一个偶数和两个奇数 3 和 9, 此时小明探掉那个偶数， 另一个是至少两个偶数，此时小明留下两",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 228,
+    "question_num": "4",
+    "content": "30. 840 ”840 4 -7 on 余下840 再由丙做需要 =站 小时) 尖 7 ji以一共需要: 3x7+1+1+一=23一(小 时) 所以一共需要: 3x7+1+1+15=2315 《4 ",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 230,
+    "question_num": "15",
+    "content": "解: 一亩一天新生长草可供多少头羊吃一天? (13x44+22-12x14+12)+(44-14)=0.4 (头) 一亩原有草可供多少头羊吃一天? 12x14+12-0.4x14=8.4 (头) 50",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 231,
+    "question_num": "16",
+    "content": "解， 大正方体表面积为，5SxSx6=150 ， -个小长方体的表面积(不包括前后面)，(1x2+1x2)x2=8， 6个小长方体的表面积(不包括前后面);， 6x8=48 : 所以这个图形的面积为，",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 231,
+    "question_num": "18",
+    "content": "解: 6月29日零点7月6日上午6时一共，24X7+6=174 (小时); 这段时间共比标准时间快5+5=10 《分钟) 每小时快; 10+04=襄 全辐 半 87 87+24 = 3…15 (小时)",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 232,
+    "question_num": "19",
+    "content": "解: 假设去年的成本是 1，那么今年的成本就是，1+1x10% =1.1， 因为成本提高了 0.1，而下降的利润是原来利润的 40%， 所以去年的利润为:0.1+ 409% = 0.25 ，所以去年的",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 234,
+    "question_num": "1",
+    "content": "49.55 [解析] 通过观察可以发现,利用加法交换律和结合律，使两个小数凑成整数， 于是把原式改写，可得答案为 49.55。 2 15卫 19 ,，、1f19x10101 190x1001 1900",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 240,
+    "question_num": "14",
+    "content": "秤杆支点左右两侧(硅码到支点的距离X硅码重量)之和相等时， 秤杆就平衡. 图中 8 根秤杆上的点分别表示被隔开的相等的长度. 当 在14个O中分别放人 1 克到 14 克各差 1 克重量的硅码时, 每",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 250,
+    "question_num": "28",
+    "content": "26 、选择题 (每题 2 分) 数学答案 五 题号 1 答案 计算题 1 . 原式=了 5_4 一二 col X | 站 PbID DPID 虽 刘 一 ID X 工x53.5 4 1 1 2 .原",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 251,
+    "question_num": "2",
+    "content": "解: 假设 360 个全是猎手，则狗有 : (890-360x2)+2 =170+2 =85 (条) 猎手有: 360-85=275 (人) 答 : 有275 个猎手，85 条狗 .",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  },
+  {
+    "page": 251,
+    "question_num": "3",
+    "content": "解: 长:宽:高<6:3:2 4 (长+宽+高) =440 (cm) 长+宽+高=110 (cm) 6 : 110 60 (ci 长:10x55345”妈 (em 3 : 110 -30 (ci 训 ",
+    "issues": [
+      "Multiplication symbol (x vs ×)"
+    ]
+  }
+]
