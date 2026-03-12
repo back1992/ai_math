@@ -1,28 +1,9 @@
 # ai_math
 
-`ai_math` is a dataset preparation tool designed to facilitate the fine-tuning of AI models for math question extraction from PDFs. It converts PDF pages into images and aligns them with ground truth JSON data fetched from Firestore to create a standard `.jsonl` fine-tuning dataset.
-
-## Features
-- **PDF-to-Image Conversion**: Batch process PDF pages into JPEG images.
-- **Data Alignment**: Automatically syncs images with "perfect" JSON extraction results stored in Google Firestore.
-- **Fine-Tuning Ready**: Generates training-ready `.jsonl` files compatible with most AI fine-tuning platforms.
-- **Automated Filtering**: Includes logic to identify and label non-question pages (e.g., covers, intro).
-
-## Project Structure
-- `ai_math.ipynb`: Core processing logic (optimized for Google Colab).
-- `data/`: Contains source PDF documents for extraction.
-- `docs/`: Project documentation and reviews.
-- `.venv/`: Local Python virtual environment.
-
-## Setup & Usage
-1. **Dependencies**:
-   - `poppler-utils` (system package)
-   - `pdf2image`
-   - `firebase-admin`
-2. **Environment**:
-   - Designed for execution in Google Colab with access to Google Drive and Firestore.
-   - Requires a `serviceAccountKey.json` for Firebase authentication.
-3. **Execution**: Run the cells in `ai_math.ipynb` to process PDFs and generate the dataset.
-
-## Documentation
-For a detailed analysis of the project, see [docs/project_review.md](docs/project_review.md).
+AI 数学题目提取专家：模型微调设计文档项目名称： 基于 Gemini 1.5 的多模态数学 PDF 结构化提取核心目标： 训练专属模型，精准识别并转换《Algebra Readiness》等复杂数学教材为结构化 JSON 数据。1. 架构设计 (System Architecture)整个系统分为四个核心层级，确保数据从原始 PDF 到最终数据库的闭环流动。数据预处理层 (Colab): 将 PDF 转换为高清 JPG（300 DPI），处理图像空间逻辑。模型训练层 (Google AI Studio): 训练微调模型，学习特定教材的版面逻辑与数学符号。自动化流水线 (Ubuntu/Python): 利用微调后的 API 进行批量处理，通过 Firebase Admin SDK 自动入库。应用展示层 (Next.js/Firebase): 前端展示、人工校对及二次反馈。2. 微调策略 (Fine-tuning Strategy)2.1 负样本训练 (Negative Training)针对前 5 页（封面、介绍等非题目页），我们显式地告诉模型这些是不需要提取的内容。输入： 封面/介绍页图片预期输出： {"is_question_page": false, "questions": []}目的： 提升模型对干扰页面的过滤能力，节省 Token 消耗。2.2 多模态对齐利用图片而非纯文本。视觉特征： 训练模型识别“天平图”、“代数块”等视觉数学模型。格式强制： 训练模型严格输出符合 Firestore 结构的 JSON，无需后期繁琐的数据清洗。3. 开发流程 (Development Workflow)第一阶段：数据采集与清洗 (Google Colab)使用 pdf2image 提取 90 页图片，并从 Firestore 导出已校对的 JSON。Python# 核心逻辑：对齐图片与 Firestore 数据
+dataset.append({
+    "instruction": "Extract all math questions from this page and format as JSON.",
+    "context": f"Page {page_num}",
+    "response": json.dumps(firestore_data)
+})
+第二阶段：训练实施 (Google AI Studio)基础模型： Gemini 1.5 Flash (推荐：速度快，微调后准确率高)。上传： 上传生成的 final_training_data.jsonl 及对应的 90 张图片。配置： 设置 Epochs (4-10 轮) 和 Batch Size。第三阶段：生产部署 (Local Ubuntu)通过 google-generativeai 库调用生成的 tunedModels/your-id。4. 数据字典 (JSON Schema)微调后的模型将严格按照以下格式输出：字段类型说明is_question_pageBoolean是否包含数学题目topicString章节或知识点名称questionsArray题目列表questions.contentString题干 (支持 LaTeX)questions.visual_aidString描述图表类型 (如 balance_scale)questions.answerString正确答案5. 安全与权限管理Service Account: 使用 Firebase 服务账号 JSON 文件进行本地 Ubuntu 与云端数据库的安全连接。API Key: 仅允许受信任的本地环境或 App Hosting 访问微调模型。数据备份: 每 20 页完成一次人工校对并导出为新的微调集，实现模型持续进化。
